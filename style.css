@@ -12,7 +12,7 @@
     box-sizing: border-box;
 }
 
-img, button {
+svg, button {
     display: block;
     width: 100%;
 }
